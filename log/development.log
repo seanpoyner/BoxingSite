@@ -1,0 +1,320 @@
+
+
+Started GET "/style.css" for 127.0.0.1 at Tue Dec 27 01:33:16 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/style.css"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (11.7ms)
+
+
+Started GET "/4515584707_5b5bcfa150.jpg" for 127.0.0.1 at Tue Dec 27 01:33:16 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515584707_5b5bcfa150.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/static.ak.fbcdn.net" for 127.0.0.1 at Tue Dec 27 01:33:16 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/static.ak.fbcdn.net"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/4515585329_acb9bd47b5.jpg" for 127.0.0.1 at Tue Dec 27 01:33:16 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515585329_acb9bd47b5.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/blank.jpg" for 127.0.0.1 at Tue Dec 27 01:33:17 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/blank.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at Tue Dec 27 01:36:39 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/style.css"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (11.4ms)
+
+
+Started GET "/static.ak.fbcdn.net" for 127.0.0.1 at Tue Dec 27 01:36:39 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/static.ak.fbcdn.net"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/4515584707_5b5bcfa150.jpg" for 127.0.0.1 at Tue Dec 27 01:36:39 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515584707_5b5bcfa150.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/4515585329_acb9bd47b5.jpg" for 127.0.0.1 at Tue Dec 27 01:36:39 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515585329_acb9bd47b5.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/blank.jpg" for 127.0.0.1 at Tue Dec 27 01:36:39 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/blank.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at Tue Dec 27 01:36:43 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/style.css"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/4515585329_acb9bd47b5.jpg" for 127.0.0.1 at Tue Dec 27 01:36:43 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515585329_acb9bd47b5.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/static.ak.fbcdn.net" for 127.0.0.1 at Tue Dec 27 01:36:43 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/static.ak.fbcdn.net"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/4515584707_5b5bcfa150.jpg" for 127.0.0.1 at Tue Dec 27 01:36:43 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515584707_5b5bcfa150.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/blank.jpg" for 127.0.0.1 at Tue Dec 27 01:36:43 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/blank.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at Tue Dec 27 01:36:45 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/style.css"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/static.ak.fbcdn.net" for 127.0.0.1 at Tue Dec 27 01:36:45 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/static.ak.fbcdn.net"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/4515584707_5b5bcfa150.jpg" for 127.0.0.1 at Tue Dec 27 01:36:45 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515584707_5b5bcfa150.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/4515585329_acb9bd47b5.jpg" for 127.0.0.1 at Tue Dec 27 01:36:45 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515585329_acb9bd47b5.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/blank.jpg" for 127.0.0.1 at Tue Dec 27 01:36:45 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/blank.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at Tue Dec 27 01:37:15 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/style.css"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/static.ak.fbcdn.net" for 127.0.0.1 at Tue Dec 27 01:37:15 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/static.ak.fbcdn.net"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/4515585329_acb9bd47b5.jpg" for 127.0.0.1 at Tue Dec 27 01:37:15 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515585329_acb9bd47b5.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/4515584707_5b5bcfa150.jpg" for 127.0.0.1 at Tue Dec 27 01:37:15 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515584707_5b5bcfa150.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/blank.jpg" for 127.0.0.1 at Tue Dec 27 01:37:15 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/blank.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at Tue Dec 27 01:37:18 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/style.css"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/static.ak.fbcdn.net" for 127.0.0.1 at Tue Dec 27 01:37:18 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/static.ak.fbcdn.net"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/4515585329_acb9bd47b5.jpg" for 127.0.0.1 at Tue Dec 27 01:37:18 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515585329_acb9bd47b5.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/4515584707_5b5bcfa150.jpg" for 127.0.0.1 at Tue Dec 27 01:37:18 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515584707_5b5bcfa150.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/blank.jpg" for 127.0.0.1 at Tue Dec 27 01:37:18 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/blank.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at Tue Dec 27 01:37:25 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/style.css"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/4515584707_5b5bcfa150.jpg" for 127.0.0.1 at Tue Dec 27 01:37:25 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515584707_5b5bcfa150.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/static.ak.fbcdn.net" for 127.0.0.1 at Tue Dec 27 01:37:25 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/static.ak.fbcdn.net"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/4515585329_acb9bd47b5.jpg" for 127.0.0.1 at Tue Dec 27 01:37:25 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515585329_acb9bd47b5.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/blank.jpg" for 127.0.0.1 at Tue Dec 27 01:37:25 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/blank.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/app/assets/stylesheets/application/style.css" for 127.0.0.1 at Tue Dec 27 01:39:37 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/application/style.css"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.8ms)
+
+
+Started GET "/static.ak.fbcdn.net" for 127.0.0.1 at Tue Dec 27 01:39:37 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/static.ak.fbcdn.net"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/4515585329_acb9bd47b5.jpg" for 127.0.0.1 at Tue Dec 27 01:39:37 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515585329_acb9bd47b5.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/4515584707_5b5bcfa150.jpg" for 127.0.0.1 at Tue Dec 27 01:39:37 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/4515584707_5b5bcfa150.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/blank.jpg" for 127.0.0.1 at Tue Dec 27 01:39:37 -0500 2011
+
+ActionController::RoutingError (No route matches [GET] "/blank.jpg"):
+  
+
+Rendered /var/lib/gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)

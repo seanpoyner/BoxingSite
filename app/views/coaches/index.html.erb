@@ -1,0 +1,29 @@
+<h1>Listing coaches</h1>
+
+<table>
+  <tr>
+    <th>Lastname</th>
+    <th>Firstname</th>
+    <th>Middle</th>
+    <th>Xnumber</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @coaches.each do |coach| %>
+  <tr>
+    <td><%= coach.lastname %></td>
+    <td><%= coach.firstname %></td>
+    <td><%= coach.middle %></td>
+    <td><%= coach.xNumber %></td>
+    <td><%= link_to 'Show', coach %></td>
+    <td><%= link_to 'Edit', edit_coach_path(coach) %></td>
+    <td><%= link_to 'Destroy', coach, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Coach', new_coach_path %>

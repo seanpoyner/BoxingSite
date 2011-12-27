@@ -1,0 +1,29 @@
+<h1>Listing boxers</h1>
+
+<table>
+  <tr>
+    <th>Lastname</th>
+    <th>Firstname</th>
+    <th>Middle</th>
+    <th>Xnumber</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @boxers.each do |boxer| %>
+  <tr>
+    <td><%= boxer.lastname %></td>
+    <td><%= boxer.firstname %></td>
+    <td><%= boxer.middle %></td>
+    <td><%= boxer.xNumber %></td>
+    <td><%= link_to 'Show', boxer %></td>
+    <td><%= link_to 'Edit', edit_boxer_path(boxer) %></td>
+    <td><%= link_to 'Destroy', boxer, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Boxer', new_boxer_path %>

@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Lastname:</b>
+  <%= @boxer.lastname %>
+</p>
+
+<p>
+  <b>Firstname:</b>
+  <%= @boxer.firstname %>
+</p>
+
+<p>
+  <b>Middle:</b>
+  <%= @boxer.middle %>
+</p>
+
+<p>
+  <b>Xnumber:</b>
+  <%= @boxer.xNumber %>
+</p>
+
+
+<%= link_to 'Edit', edit_boxer_path(@boxer) %> |
+<%= link_to 'Back', boxers_path %>

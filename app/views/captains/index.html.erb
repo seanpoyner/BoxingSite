@@ -1,0 +1,23 @@
+<h1>Listing captains</h1>
+
+<table>
+  <tr>
+    <th>Boxer</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @captains.each do |captain| %>
+  <tr>
+    <td><%= captain.boxer_id %></td>
+    <td><%= link_to 'Show', captain %></td>
+    <td><%= link_to 'Edit', edit_captain_path(captain) %></td>
+    <td><%= link_to 'Destroy', captain, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Captain', new_captain_path %>
